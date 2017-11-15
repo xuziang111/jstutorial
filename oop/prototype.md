@@ -86,6 +86,7 @@ cat2.color // "yellow"
 ```javascript
 cat1.color = 'black';
 
+cat1.color // black'
 cat2.color // 'yellow'
 Animal.prototype.color // "yellow";
 ```
